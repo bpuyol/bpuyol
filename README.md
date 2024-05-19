@@ -69,9 +69,10 @@
         </div>
         <h3 class="Contacto-Titulo">Contacto</h3>
         <div class="Contacto">
-            <p class="Email">Email: <a href="mailto:tuemail@example.com">tuemail@example.com</a></p>
-            <p class="LinkedIn">LinkedIn: <a href="https://www.linkedin.com/in/tuperfil" target="_blank">linkedin.com/in/tuperfil</a></p>
-            <p class="GitHub">GitHub: <a href="https://github.com/tuusuario" target="_blank">github.com/tuusuario</a></p>
+            <p class="Email">Email: <a href="mailto:b.puyolfont@gmail.com">b.puyolfont@gmail.com</a></p>
+            <p class="LinkedIn">LinkedIn: <a href="https://www.linkedin.com/in/barbara-puyol-font/" target="_blank">linkedin.com/in/bpuyol</a></p>
+            <p class="GitHub">GitHub: <a href="https://github.com/bpuyol" target="_blank">github.com/bpuyol</a></p>
+            <p class="Codepen">Codepen: <a href=" https://codepen.io/bpuyol" target="_blank">codepen.io/bpuyol</a></p>
         </div>
     </div>
 </body>
