@@ -72,7 +72,7 @@
             <p class="Email">Email: <a href="mailto:b.puyolfont@gmail.com">b.puyolfont@gmail.com</a></p>
             <p class="LinkedIn">LinkedIn: <a href="https://www.linkedin.com/in/barbara-puyol-font/" target="_blank">linkedin.com/in/bpuyol</a></p>
             <p class="GitHub">GitHub: <a href="https://github.com/bpuyol" target="_blank">github.com/bpuyol</a></p>
-            <p class="Codepen">Codepen: <a href=" https://codepen.io/bpuyol" target="_blank">codepen.io/bpuyol</a></p>
+            <p class="Codepen">Codepen: <a href="https://codepen.io/bpuyol" target="_blank">codepen.io/bpuyol</a></p>
         </div>
     </div>
 </body>
