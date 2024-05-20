@@ -1,80 +1,71 @@
- <!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bárbara Puyol - Desarrolladora Full-Stack</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <div class="Barbara-Puyol">
-        <h1 class="Nombre">Bárbara Puyol</h1>
-        <h2 class="Rol">Desarrolladora Full-Stack</h2>
-        <p class="Descripcion">
-            Apasionada técnica de producción audiovisual y recién graduada en Desarrollo Full-Stack. Capaz de ofrecer un apoyo integral en todas las etapas de producción, desde el rodaje hasta la postproducción. Con habilidades técnicas sólidas y una pasión por la calidad visual y sonora, me enorgullezco de colaborar estrechamente con los equipos para superar cualquier desafío.
-        </p>
-        <h3 class="Habilidades-Titulo">Habilidades</h3>
-        <ul class="Habilidades">
-            <li class="JavaScript">JavaScript</li>
-            <li class="ReactJS">ReactJS</li>
-            <li class="Python">Python</li>
-            <li class="Flask">Flask</li>
-            <li class="HTML5-CSS3">HTML5/CSS3</li>
-            <li class="SQL">SQL</li>
-            <li class="GIT-GitHub">GIT/GitHub</li>
-        </ul>
-        <h3 class="Experiencia-Titulo">Experiencia</h3>
-        <div class="Experiencia">
-            <div class="Kahuna-Films">
-                <h4 class="Titulo">Director de Producción en Kahuna Films</h4>
-                <p class="Detalle">
-                    Dirigí proyectos audiovisuales para marcas reconocidas, gestionando todas las etapas desde la planificación hasta la postproducción.
-                </p>
-            </div>
-            <div class="Platea-Gym">
-                <h4 class="Titulo">Marketing y Redes Sociales en Platea Gym</h4>
-                <p class="Detalle">
-                    Gestioné la página web, diseñé campañas publicitarias y materiales gráficos, y manejé redes sociales, implementando estrategias que incrementaron la visibilidad y captación de leads.
-                </p>
-            </div>
-            <div class="Camaleon-Rental">
-                <h4 class="Titulo">Gestión Web en Camaleon Rental</h4>
-                <p class="Detalle">
-                    Encargada del mantenimiento y actualización de la página web, asegurando una presencia en línea efectiva.
-                </p>
-            </div>
-        </div>
-        <h3 class="Formacion-Titulo">Formación</h3>
-        <div class="Formacion">
-            <div class="4Geeks-Academy">
-                <h4 class="Titulo">4Geeks Academy España</h4>
-                <p class="Detalle">
-                    Desarrollo Full Stack, Desarrollo de Software (nov. 2023 - may. 2024)
-                    <br>
-                    Durante este bootcamp intensivo de desarrollo full stack, adquirí habilidades técnicas y prácticas necesarias para trabajar en el desarrollo de aplicaciones web desde cero hasta su implementación. Aprendí sobre tecnologías front-end como HTML, CSS, JavaScript y frameworks como React, así como tecnologías back-end como Node.js, Python y bases de datos relacionales y no relacionales.
-                </p>
-            </div>
-        </div>
-        <h3 class="Proyectos-Titulo">Proyectos</h3>
-        <div class="Proyectos">
-            <div class="My-Mood">
-                <h4 class="Titulo">My Mood</h4>
-                <p class="Detalle">
-                    Proyecto Final 4Geeks Academy (abr. 2024 - may. 2024)
-                    <br>
-                    My Mood - Red Social para Personas y Profesionales: Conecta a personas y profesionales en un entorno seguro donde poder compartir emociones y brindar ayuda profesional. 
-                    <a href="https://github.com/bpuyol/My-Mood-Final-Project" target="_blank">Ver proyecto en GitHub</a>
-                </p>
-            </div>
-        </div>
-        <h3 class="Contacto-Titulo">Contacto</h3>
-        <div class="Contacto">
-            <p class="Email">Email: <a href="mailto:b.puyolfont@gmail.com">b.puyolfont@gmail.com</a></p>
-            <p class="LinkedIn">LinkedIn: <a href="https://www.linkedin.com/in/barbara-puyol-font/" target="_blank">linkedin.com/in/bpuyol</a></p>
-            <p class="GitHub">GitHub: <a href="https://github.com/bpuyol" target="_blank">github.com/bpuyol</a></p>
-            <p class="Codepen">Codepen: <a href="https://codepen.io/bpuyol" target="_blank">codepen.io/bpuyol</a></p>
-        </div>
-    </div>
-</body>
-</html>
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/barbara-puyol-font/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
+
+### :woman_technologist: &nbsp;Sobre mí :
+
+Soy una Desarrolladora Full-Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de España.
+
+Apasionada técnica de producción audiovisual y recién graduada en Desarrollo Full-Stack. Capaz de ofrecer un apoyo integral en todas las etapas de producción, desde el rodaje hasta la postproducción. Con habilidades técnicas sólidas y una pasión por la calidad visual y sonora, me enorgullezco de colaborar estrechamente con los equipos para superar cualquier desafío.
+
+---
+
+### 🛠 &nbsp;Habilidades :
+
+- JavaScript
+- ReactJS
+- Python
+- Flask
+- HTML5/CSS3
+- SQL
+- GIT/GitHub
+
+---
+
+### 🏆 &nbsp;Experiencia :
+
+- **Director de Producción en Kahuna Films**:
+  Dirigí proyectos audiovisuales para marcas reconocidas, gestionando todas las etapas desde la planificación hasta la postproducción.
+  
+- **Marketing y Redes Sociales en Platea Gym**:
+  Gestioné la página web, diseñé campañas publicitarias y materiales gráficos, y manejé redes sociales, implementando estrategias que incrementaron la visibilidad y captación de leads.
+  
+- **Gestión Web en Camaleon Rental**:
+  Encargada del mantenimiento y actualización de la página web, asegurando una presencia en línea efectiva.
+
+---
+
+### 🎓 &nbsp;Formación :
+
+- **4Geeks Academy España**:
+  Desarrollo Full Stack, Desarrollo de Software (nov. 2023 - may. 2024). Durante este bootcamp intensivo de desarrollo full stack, adquirí habilidades técnicas y prácticas necesarias para trabajar en el desarrollo de aplicaciones web desde cero hasta su implementación. Aprendí sobre tecnologías front-end como HTML, CSS, JavaScript y frameworks como React, así como tecnologías back-end como Node.js, Python y bases de datos relacionales y no relacionales.
+
+---
+
+### 💼 &nbsp;Proyectos :
+
+- **My Mood**:
+  Proyecto Final 4Geeks Academy (abr. 2024 - may. 2024)
+  My Mood - Red Social para Personas y Profesionales: Conecta a personas y profesionales en un entorno seguro donde poder compartir emociones y brindar ayuda profesional. 
+  [Ver proyecto en GitHub](https://github.com/bpuyol/My-Mood-Final-Project)
+
+---
+
+### 📫 &nbsp;Contacto :
+
+- Email: [b.puyolfont@gmail.com](mailto:b.puyolfont@gmail.com)
+- LinkedIn: [linkedin.com/in/bpuyol](https://www.linkedin.com/in/barbara-puyol-font/)
+- GitHub: [github.com/bpuyol](https://github.com/bpuyol)
+- Codepen: [codepen.io/bpuyol](https://codepen.io/bpuyol)
+
+---
+
+### 🔥 &nbsp; Mis estadísticas :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bpuyol&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bpuyol&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
