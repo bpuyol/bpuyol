@@ -72,7 +72,6 @@ Apasionada técnica de producción audiovisual y recién graduada en Desarrollo 
 - GitHub: [github.com/bpuyol](https://github.com/bpuyol)
 - Codepen: [codepen.io/bpuyol](https://codepen.io/bpuyol)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/bpuyol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bpuyol" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/barbara puyol font" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barbara puyol font" height="30" width="40" /></a>
