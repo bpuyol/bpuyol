@@ -1,13 +1,21 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bárbara Puyol - Desarrolladora Full-Stack</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="Barbara-Puyol">
+        <h1 class="Nombre">Bárbara Puyol</h1>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/barbara-puyol-font/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/></p>
+  </div>
+</body>
+</html>
 
 ### :woman_technologist: &nbsp;Sobre mí :
 
-Soy una Desarrolladora Full-Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> de España.
+Desarrolladora Full-Stack
 
 Apasionada técnica de producción audiovisual y recién graduada en Desarrollo Full-Stack. Capaz de ofrecer un apoyo integral en todas las etapas de producción, desde el rodaje hasta la postproducción. Con habilidades técnicas sólidas y una pasión por la calidad visual y sonora, me enorgullezco de colaborar estrechamente con los equipos para superar cualquier desafío.
 
