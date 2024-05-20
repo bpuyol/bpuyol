@@ -63,7 +63,7 @@
                     Proyecto Final 4Geeks Academy (abr. 2024 - may. 2024)
                     <br>
                     My Mood - Red Social para Personas y Profesionales: Conecta a personas y profesionales en un entorno seguro donde poder compartir emociones y brindar ayuda profesional. 
-                    <a href="https://github.com/PberruezoArenas/MyMood-BNP" target="_blank">Ver proyecto en GitHub</a>
+                    <a href="https://github.com/bpuyol/My-Mood-Final-Project" target="_blank">Ver proyecto en GitHub</a>
                 </p>
             </div>
         </div>
