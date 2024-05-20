@@ -86,5 +86,3 @@ Apasionada técnica de producción audiovisual y recién graduada en Desarrollo 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bpuyol&show_icons=true&locale=en&layout=compact" alt="bpuyol" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bpuyol&show_icons=true&locale=en" alt="bpuyol" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bpuyol&" alt="bpuyol" /></p>
